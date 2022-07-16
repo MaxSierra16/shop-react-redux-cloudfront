@@ -4,5 +4,5 @@
 
 ## AWS for JS Devs course
 ### CloudFront URL
-[CloudFront URL](https://d1zriolcxolbwd.cloudfront.net/)
+[CloudFront URL](d2ke9m5y0xui9u.cloudfront.net/)
 
